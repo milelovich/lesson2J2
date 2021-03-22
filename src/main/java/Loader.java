@@ -13,7 +13,6 @@ public class Loader {
 
     }
 
-
     public static int myArray(String[][] arr) {
         int summа = 0;
         if (arr.length != 4) {
